@@ -1,2 +1,2 @@
 # Dictionary App with NextJS
-## English to English dictionary with NextJS using dictionaryapi
+## English to English dictionary app with NextJS using dictionaryapi
